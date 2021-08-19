@@ -18,4 +18,4 @@
 ## 3. A link to the GitHub repository with your EVM application that integrates Force Bridge support.
 
 
-https://github.com/Dex68/nervos_gitcoin/tree/main/task8/GuessGame
+https://github.com/lianghowe/nervos/tree/main/liang/task8/GuessGame
